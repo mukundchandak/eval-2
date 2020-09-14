@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "country": "India",
+        "cities": [ "Bangalore", "Chennai" ],
+        "population": 123654789,
+        "avgIncome": 600000,
+        "description": "This is India."
+    },
+    {
+        "id": 2,
+        "country": "USA",
+        "cities" : [ "New york", "California" ],
+        "population": 546987123,
+        "avgIncome": 100000,
+        "description":"This is Unites States of America."
+    }
+]

@@ -1,0 +1,3 @@
+export const ADD_COUNTRIES = "ADD_COUNTRIES"
+export const ADD_CITIES = "ADD_CITIES"
+export const REMOVE_COUNTRY = "REMOVE_COUNTRY"
